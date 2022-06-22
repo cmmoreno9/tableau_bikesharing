@@ -1,5 +1,7 @@
 # Bike Sharing Citibike 
 
+![thisisanimage](https://github.com/cmmoreno9/bikesharing/blob/caff548bc22e5f128f7820a99629c3e08bc07919/riding_bikes.jpeg)
+
 ### Link to Citibike Tableau Story [linktodashboard](https://public.tableau.com/app/profile/celeste8810/viz/Module14citibike_16551435450750/CitibikeChallenge?publish=yes)
 
 ## Overview
