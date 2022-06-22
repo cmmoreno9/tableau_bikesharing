@@ -13,4 +13,4 @@ A total of seven visualizations were used, two were pulled from module work. I i
 
 ## Summary
 
-Overall, it is clear to see that there is substantial demand for citibike to blossum in Des Moines. Two additional visualizations that would be beneficial include viewing the most active start and end stations. This then can be viewed by rush time hours as well to see the flow of traffic. Furthermoe a visualization viewing the average trip during by birth year and gender to understand if there are any significant differences in the users. 
+Overall, it is clear to see that there is substantial demand for citibike to blossum in Des Moines. Two additional visualizations that would be beneficial include viewing the most active start and end stations. This then can be viewed by rush time hours as well to see the flow of traffic. Furthermore, a visualization viewing the average trip during by birth year and gender to understand if there are any significant differences in the users. 
